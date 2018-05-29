@@ -95,21 +95,31 @@ SELECT
    
 ![alt text](https://drive.google.com/uc?id=1VLFtBlz_MLFwXWtkAEWCMFGChmwg2Wfs)
 
-Insert formula for vists_comp as :
-Comp = (visits_ty - visits_ly) / visits_ly
-Click on Save
-Go to All Fields 
+4. Insert formula for vists_comp as :
+   Comp = (visits_ty - visits_ly) / visits_ly
+   Click on Save
+   Go to All Fields 
 
 ![alt text](https://drive.google.com/uc?id=1PBG1S0fETM96d02-8wjBFAMvsFwzfOtJ)
 
-Change type for visits_comp from “number” to ‘percent’ and click on Done
+5. Change type for visits_comp from “number” to ‘percent’ and click on Done
+   Add scorecard for COMP as below:
 
 ![alt text](https://drive.google.com/uc?id=1xFGUgejytKE69Ghk783DxIKP9_nDZdRS)
 
-Add scorecard for COMP as below:
-Click on view report 
+6. Click on view report 
 
 ![alt text](https://drive.google.com/uc?id=12zo36ubFjtezk-lDPg9YUJHGse7zyiZe)
+
+7. Select required fiscal week from the drop down 
+
+![alt text](https://drive.google.com/uc?id=1CMSZTbA2MsI7_CdAMorx8tjgb1cVEBwT)
+
+8. Get the final report for TY, LY and COMP
+
+![alt text](https://drive.google.com/uc?id=18MFADRv8zcNSRPKQSIkHw2n3t25AhU9E)
+
+
 
 
 
