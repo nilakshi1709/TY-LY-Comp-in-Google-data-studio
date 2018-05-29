@@ -69,13 +69,38 @@ SELECT
 - Click on connect at the top right corner of the screen and add the table to the report
 
 ![alt text](https://drive.google.com/uc?id=1bNghiutQnrntNZmjmih05rCpjVaMQhpL)
+
+#### Step 4: Add the scorecard to report and select metric as below:
+
 ![alt text](https://drive.google.com/uc?id=1C51I7MD4BwsnjOBWmMiY8qwKjtYMbgWB)
+
+- Add the scorecards for “visits_ty” and “visits_ly”
+- Add Filter control to the report and select “fiscal_week_start_date” as Dimension
+
 ![alt text](https://drive.google.com/uc?id=1KhfGM392k0EkU3aJ-qq8CRS1X-7mGgC4)
+
+#### Step 5: Calculate “COMP” as below:
 ![alt text](https://drive.google.com/uc?id=1Os_sxoVU0EntDIc9L-t6KaAgch_zPSha)
+
+ 1. Select “create new field” at bottom right corner
 ![alt text](https://drive.google.com/uc?id=1n_8INq_iBUSakpqOYuGXjyrcgiGxU5Fs)
+
+It will be directed to the page below:
 ![alt text](https://drive.google.com/uc?id=1VLFtBlz_MLFwXWtkAEWCMFGChmwg2Wfs)
+
+Insert formula for vists_comp as :
+Comp = (visits_ty - visits_ly) / visits_ly
+Click on Save
+Go to All Fields 
 ![alt text](https://drive.google.com/uc?id=1PBG1S0fETM96d02-8wjBFAMvsFwzfOtJ)
+
+Change type for visits_comp from “number” to ‘percent’ and click on Done
+
 ![alt text](https://drive.google.com/uc?id=1xFGUgejytKE69Ghk783DxIKP9_nDZdRS)
+
+Add scorecard for COMP as below:
+Click on view report 
+
 ![alt text](https://drive.google.com/uc?id=12zo36ubFjtezk-lDPg9YUJHGse7zyiZe)
 
 
