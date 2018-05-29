@@ -63,10 +63,10 @@ SELECT
 ```
 #### Step 3: Add the Table2 created in step 2 to data studio
 
-- Click on add new data source
-- Select BigQuery connector
-- Select Table2
-- Click on connect at the top right corner of the screen and add the table to the report
+     - Click on add new data source
+     - Select BigQuery connector
+     - Select Table2
+     - Click on connect at the top right corner of the screen and add the table to the report
 
 ![alt text](https://drive.google.com/uc?id=1bNghiutQnrntNZmjmih05rCpjVaMQhpL)
 
@@ -74,8 +74,8 @@ SELECT
 
 ![alt text](https://drive.google.com/uc?id=1C51I7MD4BwsnjOBWmMiY8qwKjtYMbgWB)
 
-- Add the scorecards for “visits_ty” and “visits_ly”
-- Add Filter control to the report and select “fiscal_week_start_date” as Dimension
+     - Add the scorecards for “visits_ty” and “visits_ly”
+     - Add Filter control to the report and select “fiscal_week_start_date” as Dimension
 
 ![alt text](https://drive.google.com/uc?id=1KhfGM392k0EkU3aJ-qq8CRS1X-7mGgC4)
 
@@ -85,13 +85,12 @@ SELECT
 ![alt text](https://drive.google.com/uc?id=1Os_sxoVU0EntDIc9L-t6KaAgch_zPSha)
 
 2. It will be directed to the page below:
- 
-![alt text](https://drive.google.com/uc?id=1n_8INq_iBUSakpqOYuGXjyrcgiGxU5Fs)
-
    - Insert formula for vists_comp as :
    - Comp = (visits_ty - visits_ly) / visits_ly
-   - Click on Save
-   - Go to All Fields 
+   
+![alt text](https://drive.google.com/uc?id=1n_8INq_iBUSakpqOYuGXjyrcgiGxU5Fs)
+
+3. Go to All Fields
    
 ![alt text](https://drive.google.com/uc?id=1VLFtBlz_MLFwXWtkAEWCMFGChmwg2Wfs)
 
