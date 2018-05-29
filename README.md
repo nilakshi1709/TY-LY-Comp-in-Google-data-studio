@@ -74,8 +74,8 @@ SELECT
 
 ![alt text](https://drive.google.com/uc?id=1C51I7MD4BwsnjOBWmMiY8qwKjtYMbgWB)
 
-   - Add the scorecards for “visits_ty” and “visits_ly”
-   - Add Filter control to the report and select “fiscal_week_start_date” as Dimension
+    - Add the scorecards for “visits_ty” and “visits_ly”
+    - Add Filter control to the report and select “fiscal_week_start_date” as Dimension
 
 ![alt text](https://drive.google.com/uc?id=1KhfGM392k0EkU3aJ-qq8CRS1X-7mGgC4)
 
@@ -86,7 +86,7 @@ SELECT
 
 2. It will be directed to the page below:
 
-   - Insert formula for vists_comp as : (visits_ty - visits_ly) / visits_ly
+   - Add formula for vists_comp as : (visits_ty - visits_ly) / visits_ly
     
 ![alt text](https://drive.google.com/uc?id=1n_8INq_iBUSakpqOYuGXjyrcgiGxU5Fs)
 
