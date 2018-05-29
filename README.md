@@ -1,5 +1,5 @@
-# TY-LY-Comp-in-Google-data-studio
-To find TY, LY &amp; Comp (for fiscal calendar) in Google data studio using custom queries and calculated fields.
+# YOY-comparison-in-Google-data-studio
+To find TY, LY & Comp for fiscal calendar in Google data studio using custom queries and calculated fields.
 
 #### Where we can use:
 - To find the “This year” vs “Last year” comparisons for various KPIs for retail year.
