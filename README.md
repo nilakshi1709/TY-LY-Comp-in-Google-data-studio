@@ -95,15 +95,11 @@ SELECT
    
 ![alt text](https://drive.google.com/uc?id=1VLFtBlz_MLFwXWtkAEWCMFGChmwg2Wfs)
 
-4. Insert formula for vists_comp as :
-   Comp = (visits_ty - visits_ly) / visits_ly
-   Click on Save
-   Go to All Fields 
-
+4. Change type for visits_comp from “number” to ‘percent’ and click on Done
+   
 ![alt text](https://drive.google.com/uc?id=1PBG1S0fETM96d02-8wjBFAMvsFwzfOtJ)
 
-5. Change type for visits_comp from “number” to ‘percent’ and click on Done
-   Add scorecard for COMP as below:
+5. Add scorecard for COMP as below:
 
 ![alt text](https://drive.google.com/uc?id=1xFGUgejytKE69Ghk783DxIKP9_nDZdRS)
 
