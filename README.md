@@ -88,10 +88,10 @@ SELECT
  
 ![alt text](https://drive.google.com/uc?id=1n_8INq_iBUSakpqOYuGXjyrcgiGxU5Fs)
 
-3. Insert formula for vists_comp as :
-   Comp = (visits_ty - visits_ly) / visits_ly
-   Click on Save
-   Go to All Fields 
+   a. Insert formula for vists_comp as :
+   b. Comp = (visits_ty - visits_ly) / visits_ly
+   c. Click on Save
+   d. Go to All Fields 
    
 ![alt text](https://drive.google.com/uc?id=1VLFtBlz_MLFwXWtkAEWCMFGChmwg2Wfs)
 
