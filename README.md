@@ -80,18 +80,26 @@ SELECT
 ![alt text](https://drive.google.com/uc?id=1KhfGM392k0EkU3aJ-qq8CRS1X-7mGgC4)
 
 #### Step 5: Calculate “COMP” as below:
+1. Select “create new field” at bottom right corner
+
 ![alt text](https://drive.google.com/uc?id=1Os_sxoVU0EntDIc9L-t6KaAgch_zPSha)
 
- 1. Select “create new field” at bottom right corner
+2. It will be directed to the page below:
+ 
 ![alt text](https://drive.google.com/uc?id=1n_8INq_iBUSakpqOYuGXjyrcgiGxU5Fs)
 
-It will be directed to the page below:
+3. Insert formula for vists_comp as :
+   Comp = (visits_ty - visits_ly) / visits_ly
+   Click on Save
+   Go to All Fields 
+   
 ![alt text](https://drive.google.com/uc?id=1VLFtBlz_MLFwXWtkAEWCMFGChmwg2Wfs)
 
 Insert formula for vists_comp as :
 Comp = (visits_ty - visits_ly) / visits_ly
 Click on Save
 Go to All Fields 
+
 ![alt text](https://drive.google.com/uc?id=1PBG1S0fETM96d02-8wjBFAMvsFwzfOtJ)
 
 Change type for visits_comp from “number” to ‘percent’ and click on Done
