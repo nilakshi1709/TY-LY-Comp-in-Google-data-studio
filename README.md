@@ -1,5 +1,5 @@
 # YOY-comparison-in-Google-data-studio
-To find TY, LY & Comp for fiscal calendar in Google data studio using custom queries and calculated fields.
+To find YOY comparison for fiscal calendar in Google data studio using custom queries and calculated fields.
 
 #### Where we can use:
 - To find the “This year” vs “Last year” comparisons for various KPIs for retail year.
@@ -7,7 +7,7 @@ To find TY, LY & Comp for fiscal calendar in Google data studio using custom que
 
 #### How to Implement?
 Consider the below example where we want to find the This Year (TY) sales comparison with Last Year (LY) for fiscal year.
-( Note : Please refer the fiscal calendar 454 for more details )
+( Note : Please [refer](https://drive.google.com/open?id=1X1OqY_XK_q3AFaSwB9y_XDSphMEB2IXa1wQE7jiRfx0) the fiscal calendar 454 for more details )
 
 #### Step 1: Create a view in BigQuery to find TY & LY weekly comparison
 This will give the TY & LY data at daily level:
